@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# TradeSphere Frontend (Deprecated)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚨 **This repository is deprecated and no longer maintained.** 🚨
 
-## Available Scripts
+This project was the original React (JavaScript) version of **TradeSphere Frontend**. It has been deprecated in favor of the new and improved **TypeScript** version. 
 
-In the project directory, you can run:
+👉 **Check out the new TypeScript version here:** [TradeSphere Frontend (TypeScript)](https://github.com/Eyuelwoldeh/TradeSphere-Frontend-tsx)
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About This Version
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This repository contains the legacy JavaScript version of the TradeSphere frontend. While it is no longer actively maintained, you are free to fork, use, or modify this codebase for your own projects.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Why the Move to TypeScript?
 
-### `npm run build`
+The decision to migrate to TypeScript was made to improve:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Type Safety**: Catch errors at compile time rather than runtime.
+- **Developer Experience**: Enhanced autocompletion, documentation, and tooling.
+- **Scalability**: Better support for larger and more complex codebases.
+- **Maintainability**: Easier to refactor and collaborate on the code.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Getting Started
 
-### `npm run eject`
+If you'd like to use or explore this deprecated version, follow these steps:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the repository**
+```
+git clone https://github.com/Eyuelwoldeh/TradeSphere-Frontend.git
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Install dependencies**:
+```
+npm install
+# or
+yarn install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+3. **Run the development server**:
+```
+npm start
+# or
+yarn start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. **Explore the code**:
+   - Feel free to fork, modify, or use this codebase for your own projects.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+While this repository is deprecated, contributions are not accepted here. If you'd like to contribute, please head over to the new **TypeScript version** of the project:
 
-### Code Splitting
+[TradeSphere Frontend (TypeScript)](https://github.com/Eyuelwoldeh/TradeSphere-Frontend-tsx)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Questions?
 
-### Advanced Configuration
+If you have any questions or need assistance, feel free to reach out:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Email**: [eyuelwoldehanna@gmail.com](mailto:eyuelwoldehanna@gmail.com)
+- **GitHub Issues**: Open an issue on the [new TypeScript repository](https://github.com/Eyuelwoldeh/TradeSphere-F
