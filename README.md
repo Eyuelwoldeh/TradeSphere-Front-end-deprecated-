@@ -72,4 +72,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 If you have any questions or need assistance, feel free to reach out:
 
 - **Email**: [eyuelwoldehanna@gmail.com](mailto:eyuelwoldehanna@gmail.com)
-- **GitHub Issues**: Open an issue on the [new TypeScript repository]([https://github.com/Eyuelwoldeh/TradeSphere-F](https://github.com/Eyuelwoldeh/TradeSphere-Front-end-tsx))
+- **GitHub Issues**: Open an issue on the [new TypeScript repository](https://www.github.com/Eyuelwoldeh/TradeSphere-Front-end)
