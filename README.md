@@ -4,7 +4,7 @@
 
 This project was the original React (JavaScript) version of **TradeSphere Frontend**. It has been deprecated in favor of the new and improved **TypeScript** version. 
 
-👉 **Check out the new TypeScript version here:** [TradeSphere Frontend (TypeScript)](https://github.com/Eyuelwoldeh/TradeSphere-Frontend-tsx)
+👉 **Check out the new TypeScript version here:** [TradeSphere Frontend (TypeScript)](https://www.github.com/Eyuelwoldeh/TradeSphere-Front-end-tsx)
 
 ---
 
