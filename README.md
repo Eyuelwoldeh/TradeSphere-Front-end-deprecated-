@@ -57,7 +57,7 @@ yarn start
 
 While this repository is deprecated, contributions are not accepted here. If you'd like to contribute, please head over to the new **TypeScript version** of the project:
 
-[TradeSphere Frontend (TypeScript)]([https://github.com/Eyuelwoldeh/TradeSphere-Frontend-tsx](https://github.com/Eyuelwoldeh/TradeSphere-Front-end-tsx))
+[TradeSphere Frontend (TypeScript)]([https://github.com/Eyuelwoldeh/TradeSphere-Frontend-tsx]))
 
 ---
 
